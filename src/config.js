@@ -8,8 +8,7 @@ const config = {
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi,Welcome to",
-	" FateVerse Server.", // 标题
+	welcometitle: "Hi,Welcome to the FateVerse Server.", // 标题
 
 	// 颜色配置
 	color: {
